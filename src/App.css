@@ -1,0 +1,21 @@
+.header {
+  position: fixed;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 2px;
+  z-index: 10;
+  text-shadow: 0 0 20px rgba(138, 43, 226, 0.8);
+  pointer-events: none;
+}
+
+.galaxy-canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(ellipse at center, #0a0a1a 0%, #000000 100%);
+  cursor: crosshair;
+}
