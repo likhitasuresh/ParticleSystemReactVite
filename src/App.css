@@ -10,6 +10,7 @@
   z-index: 10;
   text-shadow: 0 0 20px rgba(138, 43, 226, 0.8);
   pointer-events: none;
+  text-align: center;
 }
 
 .galaxy-canvas {
