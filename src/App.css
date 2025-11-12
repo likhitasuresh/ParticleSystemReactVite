@@ -17,6 +17,6 @@
   display: block;
   width: 100vw;
   height: 100vh;
-  background: radial-gradient(ellipse at center, #0a0a1a 0%, #000000 100%);
+  background: radial-gradient(ellipse at center, #0a0a1a 0%, #a41a1a 100%);
   cursor: crosshair;
 }
