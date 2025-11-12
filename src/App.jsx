@@ -130,6 +130,7 @@ function App() {
   return (
     <>
       <h1 className="header">This is a static React + Vite app</h1>
+      <h2 className="header">Powered by Omega</h2>
       <canvas ref={canvasRef} className="galaxy-canvas" />
     </>
   )
